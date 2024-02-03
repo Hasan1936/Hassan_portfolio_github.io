@@ -2443,3 +2443,10 @@ input, select, textarea {
 					}
 
 	}
+
+@media (min-width: 981px) and (max-width: 2000px){
+	.image{
+		top: -84px;
+    		left: 45px;
+	}
+}
