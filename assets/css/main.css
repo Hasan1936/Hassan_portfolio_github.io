@@ -2444,9 +2444,19 @@ input, select, textarea {
 
 	}
 
-@media (min-width: 981px) and (max-width: 2000px){
+@media (min-width: 981px) and (max-width: 1280px){
 	.image{
 		top: -84px;
-    		left: 45px;
+    		left: 89px;
 	}
 }
+
+@media (min-width: 1281px) and (max-width: 2600px){
+	.image{
+		top: -84px;
+    		left: 32px;
+	}
+}
+
+#top > div > div > div.col-8.col-7-large.col-12-medium > p {
+	margin-bottom: 1em;}}
